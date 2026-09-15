@@ -1,11 +1,11 @@
 # Looker-studio-data-analysis-project
 # IBM HR Attrition Analytics – Looker
 
-## 📊 Project Overview
+##  Project Overview
 
 An interactive **HR Attrition Analytics dashboard** created using **Looker** to analyze employee attrition and identify workforce patterns.
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze overall employee attrition.
 * Compare attrition across departments and job roles.
@@ -13,14 +13,14 @@ An interactive **HR Attrition Analytics dashboard** created using **Looker** to 
 * Identify employee groups with higher attrition rates.
 * Present HR insights through interactive visualizations.
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * **Looker** – Dashboard & Data Visualization
 * **CSV** – Dataset
 * **Calculated Fields** – Advanced analysis
 * **GitHub** – Project Documentation
 
-## 📈 Key Insights
+##  Key Insights
 
 * Total Employees: **1,470**
 * Employees Who Left: **237**
@@ -34,7 +34,7 @@ An interactive **HR Attrition Analytics dashboard** created using **Looker** to 
 
 These insights are based on the completed Looker dashboard.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 IBM-HR-Attrition-Looker/
@@ -45,11 +45,11 @@ IBM-HR-Attrition-Looker/
 └── README.md
 ```
 
-## 🔗 Dashboard
+##  Dashboard
 
 **Looker Dashboard:** *(https://datastudio.google.com/reporting/8da587cc-63e7-4d5c-91e0-40446f3dc24a)*
 
-## 👩‍💻 Author
+##  Author
 
 **Sonal Sharma**
 
